@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Chidiebere</h1>
-<h3 align="center">An enthusiastic DevOps Engineer. I make work seamless and easier for Developers.</h3>
+<h3 align="center">An enthusiastic Cloud DevOps Engineer.</h3>
 
 - 🔭 I’m currently working on **all things Cloud and DevOps Engineering**
 
